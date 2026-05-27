@@ -1,6 +1,6 @@
-# Python Scripts — T2S: Python for AI & ML Engineers
+# Python for AI & ML Engineers
 
-All scripts referenced in the T2S course workbook and YouTube series.
+All scripts referenced in the course workbook and YouTube series.
 
 ## Setup (do once)
 
@@ -87,4 +87,4 @@ def my_function(items):
 
 ---
 
-*Rev. Dr. Emmanuel Naweji · T2S: Transformed 2 Succeed · www.emmanuelnaweji.com/ai-course*
+*Emmanuel Naweji · www.emmanuelnaweji.com/ai-course*

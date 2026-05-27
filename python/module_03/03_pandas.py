@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Module 3: Pandas — Data Wrangling
 github.com/Here2ServeU/scripting
 

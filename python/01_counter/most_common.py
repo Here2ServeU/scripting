@@ -3,7 +3,7 @@ Pattern 01 — Counter
 most_common.py
 
 Find the most frequent item. Handle alphabetical tiebreak.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import Counter

@@ -3,7 +3,7 @@ Pattern 02 — defaultdict
 group_by.py
 
 Group items into buckets by any field.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import defaultdict

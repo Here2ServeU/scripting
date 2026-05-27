@@ -3,7 +3,7 @@ Pattern 01 — Counter
 find_duplicates.py
 
 Find items that appear more than once.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import Counter

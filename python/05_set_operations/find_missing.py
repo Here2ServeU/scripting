@@ -4,7 +4,7 @@ find_missing.py
 
 Find items that are in A but NOT in B.
 "What disappeared?" / "What is missing?"
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

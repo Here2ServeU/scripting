@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Project 3: FastAPI Model Deployment
 github.com/Here2ServeU/scripting
 
@@ -94,7 +94,7 @@ class BatchResponse(BaseModel):
 # ── APP ───────────────────────────────────────────────────────────────────────
 
 app = FastAPI(
-    title       = "T2S: AI Model API",
+    title       = "AI Model API",
     description = "Serve predictions from a trained Scikit-learn pipeline.",
     version     = "1.0.0",
 )
@@ -180,6 +180,6 @@ def batch_predict(request: BatchRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    print("\nStarting T2S AI Model API...")
+    print("\nStarting AI Model API...")
     print("Docs available at: http://localhost:8000/docs\n")
     uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)

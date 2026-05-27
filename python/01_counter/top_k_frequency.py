@@ -3,7 +3,7 @@ Pattern 01 — Counter
 top_k_frequency.py
 
 Return the top K most frequent items.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import Counter

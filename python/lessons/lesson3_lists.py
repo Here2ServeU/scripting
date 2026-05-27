@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Lesson 3: Lists
 github.com/Here2ServeU/scripting
 

@@ -28,4 +28,4 @@ python tests/mock4.py
 You can finish `mock4.py` in 70 minutes without looking at the answers, and all assertions pass.
 
 > *"When you can write all 5 patterns from memory, you are ready."*
-> — Rev. Dr. Emmanuel Naweji
+> — Emmanuel Naweji

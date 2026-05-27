@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Module 6: Deep Learning Foundations
 github.com/Here2ServeU/scripting
 

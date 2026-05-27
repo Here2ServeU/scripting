@@ -3,7 +3,7 @@ Pattern 01 — Counter
 count_per_agent.py
 
 Count test runs, passes, and failures per agent.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import Counter

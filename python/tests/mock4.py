@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Practice Test 4: Full DevOps Test — The Hardest One
 github.com/Here2ServeU/scripting
 

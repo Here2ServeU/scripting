@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Module 5: Scikit-learn — Classical ML
 github.com/Here2ServeU/scripting
 

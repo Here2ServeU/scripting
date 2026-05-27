@@ -3,7 +3,7 @@ Pattern 04 — Sliding Window
 max_window_average.py
 
 Find the highest average of any K consecutive items.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

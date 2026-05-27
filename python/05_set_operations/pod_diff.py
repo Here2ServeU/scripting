@@ -3,7 +3,7 @@ Pattern 05 — Set Operations
 pod_diff.py
 
 Full real-world example: detect what changed between two pod snapshots.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

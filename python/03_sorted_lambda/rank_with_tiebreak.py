@@ -3,7 +3,7 @@ Pattern 03 — sorted + lambda
 rank_with_tiebreak.py
 
 Sort with a secondary (alphabetical) tiebreak.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

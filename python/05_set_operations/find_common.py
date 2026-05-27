@@ -3,7 +3,7 @@ Pattern 05 — Set Operations
 find_common.py
 
 Find items that appear in BOTH lists.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

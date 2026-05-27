@@ -3,7 +3,7 @@ Pattern 01 — Counter
 count_by_status.py
 
 Count how many items fall into each status category.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import Counter

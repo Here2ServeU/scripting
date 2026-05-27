@@ -4,7 +4,7 @@ find_added.py
 
 Find items that are in B but NOT in A.
 "What appeared?" / "What was added?"
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

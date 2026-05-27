@@ -3,7 +3,7 @@ Pattern 03 — sorted + lambda
 top_k_by_score.py
 
 Return the top K items by score.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

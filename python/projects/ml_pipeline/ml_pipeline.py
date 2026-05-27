@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Project 2: End-to-End ML Pipeline
 github.com/Here2ServeU/scripting
 
@@ -164,7 +164,7 @@ def save_pipeline(pipe, path='model_pipeline.pkl'):
 
 if __name__ == '__main__':
     print("=" * 55)
-    print("  T2S: End-to-End ML Pipeline")
+    print("  End-to-End ML Pipeline")
     print("=" * 55)
 
     df                               = load_data()

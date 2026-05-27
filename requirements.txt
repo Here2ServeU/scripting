@@ -1,4 +1,4 @@
-# T2S: Python for AI & ML Engineers
+# Python for AI & ML Engineers
 # Install everything: pip install -r requirements.txt
 
 # Core data science

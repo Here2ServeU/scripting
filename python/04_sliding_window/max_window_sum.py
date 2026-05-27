@@ -3,7 +3,7 @@ Pattern 04 — Sliding Window
 max_window_sum.py
 
 Find the highest sum of any K consecutive items.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

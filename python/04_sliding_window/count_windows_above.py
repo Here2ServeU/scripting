@@ -3,7 +3,7 @@ Pattern 04 — Sliding Window
 count_windows_above.py
 
 Count how many K-windows have a sum or average above a threshold.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

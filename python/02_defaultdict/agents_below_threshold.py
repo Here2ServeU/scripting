@@ -3,7 +3,7 @@ Pattern 02 — defaultdict
 agents_below_threshold.py
 
 Find agents whose average score falls below a threshold.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import defaultdict

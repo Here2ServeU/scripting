@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Module 8: Deployment — Make the Model Real
 github.com/Here2ServeU/scripting
 
@@ -98,7 +98,7 @@ try:
         )
 
     app = FastAPI(
-        title       = "T2S: Python for AI & ML Engineers",
+        title       = "Python for AI & ML Engineers",
         description = "Module 8 — FastAPI deployment of a trained ML pipeline.",
         version     = "1.0.0",
     )

@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Project 1: Real-World Log Parser
 github.com/Here2ServeU/scripting
 

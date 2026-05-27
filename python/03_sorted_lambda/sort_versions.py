@@ -4,7 +4,7 @@ sort_versions.py
 
 Sort version strings in natural order: v1, v2, v10, v20
 NOT the default string order: v1, v10, v2, v20
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 

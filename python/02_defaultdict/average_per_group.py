@@ -3,7 +3,7 @@ Pattern 02 — defaultdict
 average_per_group.py
 
 Compute the average score per group.
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 """
 
 from collections import defaultdict

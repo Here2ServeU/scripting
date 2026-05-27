@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 Module 7: NLP & Computer Vision
 github.com/Here2ServeU/scripting
 

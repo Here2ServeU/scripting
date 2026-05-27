@@ -1,5 +1,5 @@
 """
-T2S: Python for AI & ML Engineers
+Python for AI & ML Engineers
 utils/helpers.py — Shared utilities used across all modules and patterns
 github.com/Here2ServeU/scripting
 """
