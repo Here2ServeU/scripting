@@ -68,8 +68,8 @@ scripting/
 ## Author
 
 **Emmanuel Naweji**
-PhD Candidate in AI, ML, and Robotics Applied to Highly Regulated Environments
-Years of Experience Working with Top Tech Leading Companies
+- PhD Candidate in AI, ML, and Robotics Applied to Highly Regulated Environments
+- Years of Experience Working with Top Tech Leading Companies
 
 > *"Master the scripting, and the rest of the stack opens up."*
 
